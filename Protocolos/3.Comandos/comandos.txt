@@ -1,0 +1,11 @@
+COMANDOS A USAR:
+name Jesamin
+initial J
+surname Zevallos
+dob 30-09-1997
+dni 98374821
+address avenida argentina 106
+profession estudiante
+bio hakuna matata
+photo happy.jpg
+(al terminar de ingresar todo, aprete enter, una vez más.)
